@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Jasing&#39;s blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-07-05T05:33:24.028Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Jasing</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的第一篇博客</title>
+    <link href="http://yoursite.com/2018/07/05/myfirstblog/"/>
+    <id>http://yoursite.com/2018/07/05/myfirstblog/</id>
+    <published>2018-07-05T05:32:19.000Z</published>
+    <updated>2018-07-05T05:33:24.028Z</updated>
+    
+    <content type="html"><![CDATA[<p>正文，随便写了！测试一波</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;正文，随便写了！测试一波&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
