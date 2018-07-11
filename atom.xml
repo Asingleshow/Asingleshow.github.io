@@ -18,8 +18,8 @@
   
   <entry>
     <title>我的第一篇博客</title>
-    <link href="http://yoursite.com/2018/07/05/myfirstblog/"/>
-    <id>http://yoursite.com/2018/07/05/myfirstblog/</id>
+    <link href="http://yoursite.com/category/myfirstblog/"/>
+    <id>http://yoursite.com/category/myfirstblog/</id>
     <published>2018-07-05T05:32:19.000Z</published>
     <updated>2018-07-05T05:33:24.028Z</updated>
     
