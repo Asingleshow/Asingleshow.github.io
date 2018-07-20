@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>http://yoursite.com/category/008blog/</loc>
+    <lastmod>2018-07-20T13:58:44.165Z</lastmod>
+    <data>
+        <display>
+        <title>“高级的美”</title>
+        <pubTime>2018-07-20T13:36:23.000Z</pubTime>
+        
+        <tag>文摘</tag>
+         
+         
+           
+             
+              <breadCrumb title="生活" url="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/category/007blog/</loc>
     <lastmod>2018-07-19T14:10:57.239Z</lastmod>
     <data>
@@ -32,6 +52,26 @@
         <pubTime>2018-07-18T12:21:19.000Z</pubTime>
         
         <tag>交友</tag>
+         
+         
+           
+             
+              <breadCrumb title="生活" url="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/category/005blog/</loc>
+    <lastmod>2018-07-17T11:39:03.754Z</lastmod>
+    <data>
+        <display>
+        <title>轻松一刻</title>
+        <pubTime>2018-07-17T11:10:18.000Z</pubTime>
+        
+        <tag>哲理笑话</tag>
          
          
            
