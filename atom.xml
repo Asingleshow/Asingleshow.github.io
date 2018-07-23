@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-07-22T14:36:28.010Z</updated>
+  <updated>2018-07-23T15:02:10.848Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Gmail谷歌邮箱注册</title>
+    <link href="http://yoursite.com/category/011blog/"/>
+    <id>http://yoursite.com/category/011blog/</id>
+    <published>2018-07-23T14:50:18.000Z</published>
+    <updated>2018-07-23T15:02:10.848Z</updated>
+    
+    <content type="html"><![CDATA[<hr><p><br></p><center><img src="https://i.loli.net/2018/07/23/5b55eaac2640c.jpeg" alt=""></center><p><br></p><p>今天想去弄一个Gmail邮箱，看网上大多数人说：最后一步手机验证不行，不能注册。我也试了一下，确实不行。想着节省时间，准备去某宝上弄个账号，看了下商家还真不少，问了销量最高的一家店铺说是代注册，收18元。我心想不就注册个账号，要18块，太黑了，果断不能忍。于是我就又去网上搜了一波注册方法，但大多数说什么VPN啥的，垃圾方法一大堆，最后我采用了最简单的方法去试了下，就成了。</p><ol><li>下载谷歌插件（谷歌访问助手） ps:之前安装过就不用了，下载安装用下面的链接即可 </li><li>链接：<a href="https://pan.baidu.com/s/1DWGzXMlt_D5bpwN8zfiUZw" target="_blank" rel="noopener">https://pan.baidu.com/s/1DWGzXMlt_D5bpwN8zfiUZw</a> 密码：4kmr</li><li>点击设置搜索输入框输入’语言/language’ 设置成英语，语言没英语的话，添加一个，应用一下重启浏览器就可以开始注册了</li><li>填入相关注册信息直接下一步操作就OK</li><li>萌新图解，如下</li></ol><p><br></p><center><img src="https://i.loli.net/2018/07/23/5b55ead974285.png" alt=""></center><p><br></p><p><br></p><center><img src="https://i.loli.net/2018/07/23/5b55eaf143d31.png" alt=""></center><p><br></p><p><br></p><center><img src="https://i.loli.net/2018/07/23/5b55eb0cd6dce.png" alt=""></center><p><br></p><p><br></p><center><img src="https://i.loli.net/2018/07/23/5b55eb3b30df9.png" alt=""></center><p><br></p><p><br></p><center><img src="https://i.loli.net/2018/07/23/5b55eb5a7c56f.png" alt=""></center><p><br></p><p><br></p><center><img src="https://i.loli.net/2018/07/23/5b55eb6ab0741.png" alt=""></center><p><br></p><p><br></p><center><img src="https://i.loli.net/2018/07/23/5b55eb81242b3.png" alt=""></center><p><br></p><p><br></p><center><img src="https://i.loli.net/2018/07/23/5b55eb97ef17d.png" alt=""></center><p><br></p><p><br></p><center><img src="https://i.loli.net/2018/07/23/5b55ebaea6298.png" alt=""></center><p><br></p><p><br></p><center><img src="https://i.loli.net/2018/07/23/5b55ebf10dbc0.png" alt=""></center><p><br></p><p><br></p><center><img src="https://i.loli.net/2018/07/23/5b55ec1e76aa0.png" alt=""></center><p><br></p><p>最关键的手机验证通过，下面基本上就点跳过就行了。亲测有效，如果有问题请用低版本Google浏览器。                                                                                                                                                                                                                                                                                                                                                                       </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;hr&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;center&gt;&lt;img src=&quot;https://i.loli.net/2018/07/23/5b55eaac2640c.jpeg&quot; alt=&quot;&quot;&gt;&lt;/center&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;今天想去弄一个Gmail邮箱，看网上大多数人
+      
+    
+    </summary>
+    
+      <category term="软件注册" scheme="http://yoursite.com/categories/%E8%BD%AF%E4%BB%B6%E6%B3%A8%E5%86%8C/"/>
+    
+    
+      <category term="科学上网" scheme="http://yoursite.com/tags/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/"/>
+    
+  </entry>
   
   <entry>
     <title>“尽快”的误导</title>
