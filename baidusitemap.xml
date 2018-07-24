@@ -4,8 +4,28 @@
 
     
   <url>
+    <loc>http://yoursite.com/category/012blog/</loc>
+    <lastmod>2018-07-24T15:09:13.334Z</lastmod>
+    <data>
+        <display>
+        <title>说话的智慧</title>
+        <pubTime>2018-07-24T14:50:18.000Z</pubTime>
+        
+        <tag>沟通</tag>
+         
+         
+           
+             
+              <breadCrumb title="生活" url="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/category/011blog/</loc>
-    <lastmod>2018-07-23T15:02:10.848Z</lastmod>
+    <lastmod>2018-07-24T14:51:04.760Z</lastmod>
     <data>
         <display>
         <title>Gmail谷歌邮箱注册</title>
