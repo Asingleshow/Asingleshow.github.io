@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-07-24T15:09:13.334Z</updated>
+  <updated>2018-07-25T14:27:45.039Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Win10如何用shadowsocks科学上网</title>
+    <link href="http://yoursite.com/category/013blog/"/>
+    <id>http://yoursite.com/category/013blog/</id>
+    <published>2018-07-25T13:23:18.000Z</published>
+    <updated>2018-07-25T14:27:45.039Z</updated>
+    
+    <content type="html"><![CDATA[<hr><p><br></p><center><img src="https://i.loli.net/2018/07/25/5b5886d31119a.jpg" alt=""></center><p><br></p><p>之前都用工作的电脑科学上网，最近也是不带电脑回去了，用家里的电脑，结果由于是Windows 10 系统，用不了shadowsocks，于是我就在GitHub上找了下使用说明：</p><p>链接：<a href="https://github.com/shadowsocks/shadowsocks-windows/wiki/Shadowsocks-Windows-使用说明" target="_blank" rel="noopener">https://github.com/shadowsocks/shadowsocks-windows/wiki/Shadowsocks-Windows-使用说明</a></p><p>打开链接看到的是：需要安装 .NET Framework 4.6.2 和 Microsoft Visual C++ 2015 Redistributable (x86)</p><center><img src="https://i.loli.net/2018/07/25/5b5886f1702fc.jpg" alt=""></center><p><br></p><p>于是我下载了这两个安装文件，结果都安装不了，原因是已存在或已安装更高的版本。安装Microsoft Visual C++ 2015 Redistributable (x86)这个很容易，直接先在应用程序中找到安装的高版本卸载掉，然后再装就可以了。  </p><p>安装.NET Framework 4.6.2 就不顺利了，如下图：                                                                                                                                                                                                                                                                                                                                                                        </p><center><img src="https://i.loli.net/2018/07/25/5b58871279fe7.jpg" alt=""></center><p><br></p><p>开始我以为直接卸载新版本，再装就可以，结果发现应用程序里根本找不到。于是去网上搜索解决办法：原因是Win10系统自带的.net framework版本为4.7，当你下载了.net framework独立安装包想安装低于4.7版本的时候系统会提示已经安装了更高版本的.net framework，无法进行安装。</p><p>解决方案：下载安装.net framework的开发版或者说开发包</p><p>下载链接：<a href="https://www.microsoft.com/net/download/visual-studio-sdks" target="_blank" rel="noopener">https://www.microsoft.com/net/download/visual-studio-sdks</a></p><ul><li>打开链接可以看到各个版本</li></ul><center><img src="https://i.loli.net/2018/07/25/5b588735dc8f6.jpg" alt=""></center><p><br></p><ul><li>选择Developer Pack ，点击进入下载页面进行下载</li><li>双击安装下载的文件，能够顺利安装，再启用shadowsocks编辑GFWList更新一下本地PAC，启用系统代理就可以了，问题解决，可以愉快的科学上网了。</li></ul><center><img src="https://i.loli.net/2018/07/25/5b5888576c510.png" alt=""></center><p><br></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;hr&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;center&gt;&lt;img src=&quot;https://i.loli.net/2018/07/25/5b5886d31119a.jpg&quot; alt=&quot;&quot;&gt;&lt;/center&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;之前都用工作的电脑科学上网，最近也是不带电脑回
+      
+    
+    </summary>
+    
+      <category term="软件安装" scheme="http://yoursite.com/categories/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85/"/>
+    
+    
+      <category term="科学上网" scheme="http://yoursite.com/tags/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/"/>
+    
+  </entry>
   
   <entry>
     <title>说话的智慧</title>
