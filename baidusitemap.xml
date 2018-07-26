@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>http://yoursite.com/category/009blog/</loc>
+    <lastmod>2018-07-26T15:02:30.395Z</lastmod>
+    <data>
+        <display>
+        <title>“知人者智，自知者明”</title>
+        <pubTime>2018-07-21T13:23:18.000Z</pubTime>
+        
+        <tag>认知</tag>
+         
+         
+           
+             
+              <breadCrumb title="生活" url="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/category/014blog/</loc>
     <lastmod>2018-07-26T14:54:40.950Z</lastmod>
     <data>
@@ -77,26 +97,6 @@
            
              
               <breadCrumb title="软件注册" url="http://yoursite.com/categories/%E8%BD%AF%E4%BB%B6%E6%B3%A8%E5%86%8C/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/category/009blog/</loc>
-    <lastmod>2018-07-22T14:41:07.464Z</lastmod>
-    <data>
-        <display>
-        <title>“知人者智，自知者明”</title>
-        <pubTime>2018-07-21T13:23:18.000Z</pubTime>
-        
-        <tag>认知</tag>
-         
-         
-           
-             
-              <breadCrumb title="生活" url="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB/"/>
           
         </display>
     </data>
