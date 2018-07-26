@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[笑话幽默]]></title>
+    <url>%2Fcategory%2F014blog%2F</url>
+    <content type="text"><![CDATA[不想断更，今天就分享几个笑话。 笑话幽默：1学校门口看到一个苗条的少妇送一个两三岁小女孩上学，那小女孩很可爱，很萌的样子。她妈妈走后，我蹲下身，对她说，小妹妹真可爱，叔叔来考考你，你能不能把你妈妈电话号码背出来？ 笑话幽默：2老同学生日，刚好聚一聚，到了地方发现别人都是提着礼物，就我两手空空。我灵机一动，转身不紧不慢地追公交，嘴里还喊着：师傅停一下，我东西落在车上了！他妈的，居然真的停了。 笑话幽默：3最后一节课，要放学了，难熬的一天终于要结束了！我要去网吧玩通宵！我奋不顾身，第一个冲出教室，旁边的同学却拉住我，说道：你还没布置作业呢，老师。 笑话幽默：4我和闺蜜在同一个地方军训，由于好久没见面了，她来找我玩，闺蜜闲得无聊把玩我的手，因为我的手以前长过冻疮，多少有点粗，闺蜜玩着玩着突然冒出一句：哇塞，你的手指好粗啊，好幸福啊！卧槽…当时我差点没呛死… 笑话幽默：5老公前女友叫某静，所以他每次说我想静静，我都啪啪几巴掌乎过去。。。然后他就会连忙解释不是那个静静，单纯的静静！老娘知道就是单纯的想揍你。 笑话幽默：6以前追女孩子时喜欢向女性好友请教，最终发现一个定律：每个女生教给你的泡妞方式都仅适用于她本身！比如说拜金女会建议你追女孩子时多花钱，比如看重身材的女孩子会建议你去健身。所以哥友们，如果你喜欢她，不妨假装向她请教下怎么追女孩子。 ​]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>笑话</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Win10如何用shadowsocks科学上网]]></title>
     <url>%2Fcategory%2F013blog%2F</url>
     <content type="text"><![CDATA[之前都用工作的电脑科学上网，最近也是不带电脑回去了，用家里的电脑，结果由于是Windows 10 系统，用不了shadowsocks，于是我就在GitHub上找了下使用说明： 链接：https://github.com/shadowsocks/shadowsocks-windows/wiki/Shadowsocks-Windows-使用说明 打开链接看到的是：需要安装 .NET Framework 4.6.2 和 Microsoft Visual C++ 2015 Redistributable (x86) 于是我下载了这两个安装文件，结果都安装不了，原因是已存在或已安装更高的版本。安装Microsoft Visual C++ 2015 Redistributable (x86)这个很容易，直接先在应用程序中找到安装的高版本卸载掉，然后再装就可以了。 安装.NET Framework 4.6.2 就不顺利了，如下图： 开始我以为直接卸载新版本，再装就可以，结果发现应用程序里根本找不到。于是去网上搜索解决办法：原因是Win10系统自带的.net framework版本为4.7，当你下载了.net framework独立安装包想安装低于4.7版本的时候系统会提示已经安装了更高版本的.net framework，无法进行安装。 解决方案：下载安装.net framework的开发版或者说开发包 下载链接：https://www.microsoft.com/net/download/visual-studio-sdks 打开链接可以看到各个版本 选择Developer Pack ，点击进入下载页面进行下载 双击安装下载的文件，能够顺利安装，再启用shadowsocks编辑GFWList更新一下本地PAC，启用系统代理就可以了，问题解决，可以愉快的科学上网了。]]></content>
